@@ -285,7 +285,7 @@ int main()
 		std::cout << " Highscore (press 'H')" << std::endl;
 		std::cout << " Options   (press 'O')" << std::endl;
 		std::cout << " Close     (press 'C')" << std::endl << std::endl;
-		std::cout << "Decition: ";
+		std::cout << "Decision: ";
 
 		char input;
 		std::cin >> input;
